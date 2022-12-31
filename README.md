@@ -1,6 +1,7 @@
 # -NYC-311-Customer-Service-Request-analysis
 
 Analysis tasks to performed.
+
 1.Import a 311 NYC service request.
 
 2.Read or convert the columns ‘Created Date’ and Closed Date’ to datetime datatype and create a new column ‘Request_Closing_Time’ as the time elapsed between request creation and request closing. (Hint: Explore the package/module datetime)
